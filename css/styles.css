@@ -1,6 +1,10 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
+<<<<<<< HEAD
     color: gray;
+=======
+    color: blue;
+>>>>>>> cabecera
     text-align: center;
     background-color: #a52a2a;
 }
